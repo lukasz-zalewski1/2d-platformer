@@ -10,6 +10,7 @@ You can play on 6 different levels. The goal is to collect all keys and get to t
 
 Clone the repository and run the following command:
 ```ps
+pip install -r requirements.txt
 python game.py
 ```
 
